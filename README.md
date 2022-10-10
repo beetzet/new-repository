@@ -1,2 +1,1 @@
-# new-repository
 # VIVA ESPAÑA
